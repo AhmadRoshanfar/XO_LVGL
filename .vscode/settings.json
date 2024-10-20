@@ -1,0 +1,15 @@
+{
+  "idf.adapterTargetName": "esp32",
+  "files.associations": {
+    "*.ejs": "html",
+    "*.md": "markdown",
+    "*.js": "javascriptreact",
+    "esp_lcd_touch.h": "c",
+    "esp_log.h": "c",
+    "esp_lcd_touch_xpt2046.h": "c",
+    "esp_err.h": "c",
+    "lvgl.h": "c",
+    "ui_init.h": "c",
+    "defines.h": "c"
+  }
+}
